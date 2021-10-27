@@ -1,0 +1,22 @@
+
+githubデスクトップ
+参考サイト(https://work-note32.com/githubdesktop-install)
+
+手順書
+/ダウンロードから起動まで
+1.下記のページへ移動します(https://desktop.github.com/)
+2.”Download for Windows (64bit)”をクリックします(Macの場合はDownload for macOSをクリック)
+3.ダウンロードしたファイルをクリックして起動します
+4.起動したら”Sign in to GitHub.com”をクリックします
+5.”Authorize desktop”をクリックします
+6.GitHubアカウントのパスワードを入力し、”Confirm password”をクリックします
+7.アラートメッセージが表示されるので”GitHub Desktop.exeを開く”をクリックします
+8.名前とメールアドレスを入力し、”Continue”をクリックします
+9.”Finish”をクリックします
+10.デスクトップ上にGitHub Desktopのショートカットが作られます
+/連携
+１サイトを開く(https://github.com/Aso2001385/NAISA)
+２緑色の「Code」ボタンをクリックし、「Open with Github Desktop」をクリック
+３指定の場所にファイルを作る
+４vscodeで３のファイルを開く
+
